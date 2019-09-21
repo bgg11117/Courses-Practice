@@ -1,4 +1,4 @@
 # Courses-Practice
 
-1. Onlince courses @Coursesa
+1. Online courses @Coursera & EDX
 2. NTU
